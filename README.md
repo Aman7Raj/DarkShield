@@ -13,12 +13,12 @@ It analyzes UI/UX elements to identify manipulative design practices like fake u
 ## 📸 Screenshots
 
 ### 🖥️ Dashboard UI
-![Dashboard](DASHBOARD(1).png)
-![Dashboard](DASHBOARD(2).png)
+![Dashboard](DASHBOARD (1).png)
+![Dashboard](DASHBOARD (2).png)
 
 ### 📊 Analysis Result
-![Result](RESULT(1).png)
-![Result](RESULT(2).png)
+![Result](RESULT (1).png)
+![Result](RESULT (2).png)
 
 ## ⚠️ Problem  
 - Users are unknowingly manipulated by deceptive UI patterns  

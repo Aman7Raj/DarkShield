@@ -13,13 +13,13 @@ It analyzes UI/UX elements to identify manipulative design practices like fake u
 ## 📸 Screenshots
 
 ### 🖥️ Dashboard UI
-![Dashboard](./assets/dashboard.png)
+![Dashboard](DASHBOARD(1).png)
+![Dashboard](DASHBOARD(2).png)
 
 ### 📊 Analysis Result
-![Result](./assets/result.png)
+![Result](RESULT(1).png)
+![Result](RESULT(2).png)
 
-### 🌐 Chrome Extension
-![Extension](./assets/extension.png)
 ## ⚠️ Problem  
 - Users are unknowingly manipulated by deceptive UI patterns  
 - Hidden charges, forced subscriptions, and misleading consent designs are common  
